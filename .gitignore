@@ -1,0 +1,7 @@
+# eclipse stuff
+.settings
+bin/**
+local.properties
+
+.DS_Store
+
