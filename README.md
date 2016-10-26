@@ -1,6 +1,6 @@
 This rascal project contains the source code used in the "Challenges for Static Analysis of Java Reflection – Literature Review and Empirical Study" paper submitted to ICSE 2017.
 
-The project requires Eclipse with Rascal installed (http://www.rascal-mpl.org) and a clone of the [java-build-manager project](https://github.com/cwi-swat/rascal-java-build-manager).
+The project requires Eclipse with [Rascal installed](http://www.rascal-mpl.org) and a clone of the [java-build-manager project](https://github.com/cwi-swat/rascal-java-build-manager).
 
 The analysis of the corpus, and certain parts of its construction is scripted in this Rascal project.
 
